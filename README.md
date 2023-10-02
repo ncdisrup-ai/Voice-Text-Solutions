@@ -1,9 +1,9 @@
-# Voice Text solutions
+# Voice Text Solutions
 Text2Speech plus Speech2Text
 
 ## 🤔 What is this?
 **Description:**  
-Voice Text solutions with Gradio UI, with 2 NLP functions
+Voice Text solutions with Gradio UI:
  - Text2Speech (TTS): facebook/fastspeech2-en-ljspeech
  - Speech2Text (STT): facebook/wav2vec2-base-960h
 
@@ -23,11 +23,15 @@ run python file (Voice_Text_Solutions).
 
 ## 📖 Documentation / UI
 
-NLP Solutions UI
-![alt text](https://github.com/NLP-Solutions/Docs/Summary_IU.jpeg)
-https://github.com/ncdisrup-ai/NLP-solutions/tree/main
-https://github.com/ncdisrup-ai/NLP-solutions
+🧮 **Text2Speech (TTS) UI**: 
+<p align="center">
+<img src="docs/TTS_UI.png" width="900" > 
+</p>
 
+🧮 **Speech2Text (STT) UI**: 
+<p align="center">
+<img src="docs/STT_UI.jpg" width="900" > 
+</p>
 
 Please see docs dir for full documentation.
 
