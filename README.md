@@ -30,7 +30,7 @@ run python file (Voice_Text_Solutions).
 
 🧮 **Speech2Text (STT) UI**: 
 <p align="center">
-<img src="docs/STT_UI.jpg" width="900" > 
+<img src="docs/STT_UI.png" width="900" > 
 </p>
 
 Please see docs dir for full documentation.
